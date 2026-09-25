@@ -44,12 +44,14 @@ DSA-Using-CPP/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0704-binary-search](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
