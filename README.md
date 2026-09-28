@@ -48,6 +48,7 @@ DSA-Using-CPP/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0053-maximum-subarray/) | Medium |
+| [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0704-binary-search](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
 ## Binary Search
@@ -69,6 +70,7 @@ DSA-Using-CPP/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -90,4 +92,16 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
