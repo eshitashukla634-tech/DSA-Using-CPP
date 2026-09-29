@@ -44,6 +44,7 @@ DSA-Using-CPP/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0035-search-insert-position/) | Easy |
@@ -54,6 +55,7 @@ DSA-Using-CPP/
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0035-search-insert-position/) | Easy |
@@ -61,6 +63,7 @@ DSA-Using-CPP/
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
