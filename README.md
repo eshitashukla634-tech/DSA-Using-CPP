@@ -107,4 +107,12 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
