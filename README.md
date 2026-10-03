@@ -125,6 +125,7 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0009-palindrome-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
