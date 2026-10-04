@@ -70,6 +70,7 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0053-maximum-subarray/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,4 +137,20 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0141-linked-list-cycle/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
