@@ -145,6 +145,7 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0020-valid-parentheses/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -167,4 +168,12 @@ DSA-Using-CPP/
 | [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
