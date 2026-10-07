@@ -117,6 +117,7 @@ DSA-Using-CPP/
 | [0002-add-two-numbers](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0141-linked-list-cycle](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -125,6 +126,7 @@ DSA-Using-CPP/
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0206-reverse-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
