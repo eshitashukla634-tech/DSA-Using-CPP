@@ -102,6 +102,7 @@ DSA-Using-CPP/
 | [0019-remove-nth-node-from-end-of-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0143-reorder-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -119,6 +120,7 @@ DSA-Using-CPP/
 | [0021-merge-two-sorted-lists](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0141-linked-list-cycle](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -127,6 +129,7 @@ DSA-Using-CPP/
 | [0002-add-two-numbers](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0143-reorder-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0206-reverse-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -153,6 +156,7 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0020-valid-parentheses/) | Easy |
+| [0143-reorder-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0143-reorder-list/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
