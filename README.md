@@ -53,6 +53,7 @@ DSA-Using-CPP/
 | [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
 ## Binary Search
@@ -63,6 +64,7 @@ DSA-Using-CPP/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0035-search-insert-position/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@ DSA-Using-CPP/
 | [0004-median-of-two-sorted-arrays](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -89,6 +92,7 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -196,16 +200,20 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
