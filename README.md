@@ -48,6 +48,7 @@ DSA-Using-CPP/
 | [0033-search-in-rotated-sorted-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
@@ -150,6 +151,7 @@ DSA-Using-CPP/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0141-linked-list-cycle/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -191,6 +193,7 @@ DSA-Using-CPP/
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0037-sudoku-solver/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -216,4 +219,16 @@ DSA-Using-CPP/
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0037-sudoku-solver/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
