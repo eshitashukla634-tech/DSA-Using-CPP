@@ -48,6 +48,7 @@ DSA-Using-CPP/
 | [0033-search-in-rotated-sorted-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -141,6 +142,7 @@ DSA-Using-CPP/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0141-linked-list-cycle/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
