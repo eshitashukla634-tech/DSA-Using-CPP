@@ -52,6 +52,7 @@ DSA-Using-CPP/
 | [0041-first-missing-positive](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0041-first-missing-positive/) | Hard |
 | [0053-maximum-subarray](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
@@ -183,6 +184,7 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -251,9 +253,14 @@ DSA-Using-CPP/
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0739-daily-temperatures/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
