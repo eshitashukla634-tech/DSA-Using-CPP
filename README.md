@@ -267,4 +267,20 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
