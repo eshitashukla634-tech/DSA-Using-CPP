@@ -154,12 +154,14 @@ DSA-Using-CPP/
 | [0025-reverse-nodes-in-k-group](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0224-basic-calculator/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0009-palindrome-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0224-basic-calculator](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0224-basic-calculator/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +176,7 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0020-valid-parentheses/) | Easy |
+| [0224-basic-calculator](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0224-basic-calculator/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0856-score-of-parentheses/) | Medium |
@@ -187,6 +190,7 @@ DSA-Using-CPP/
 | [0084-largest-rectangle-in-histogram](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0224-basic-calculator](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0224-basic-calculator/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0856-score-of-parentheses/) | Medium |
