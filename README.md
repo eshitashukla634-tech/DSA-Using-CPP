@@ -188,6 +188,7 @@ DSA-Using-CPP/
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0094-binary-tree-inorder-traversal](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0224-basic-calculator/) | Hard |
@@ -272,12 +273,14 @@ DSA-Using-CPP/
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -288,6 +291,7 @@ DSA-Using-CPP/
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
