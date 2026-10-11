@@ -221,6 +221,7 @@ DSA-Using-CPP/
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -270,10 +271,12 @@ DSA-Using-CPP/
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -282,5 +285,6 @@ DSA-Using-CPP/
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
