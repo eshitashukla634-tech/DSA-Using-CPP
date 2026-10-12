@@ -62,6 +62,7 @@ DSA-Using-CPP/
 | [0739-daily-temperatures](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0739-daily-temperatures/) | Medium |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ DSA-Using-CPP/
 | [0041-first-missing-positive](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,6 +218,7 @@ DSA-Using-CPP/
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,4 +327,8 @@ DSA-Using-CPP/
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 <!---LeetCode Topics End-->
