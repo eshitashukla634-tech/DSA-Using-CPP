@@ -89,6 +89,7 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0053-maximum-subarray/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -294,6 +295,7 @@ DSA-Using-CPP/
 | [0098-validate-binary-search-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -304,6 +306,7 @@ DSA-Using-CPP/
 | [0094-binary-tree-inorder-traversal](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Search Tree
@@ -320,6 +323,7 @@ DSA-Using-CPP/
 | [0098-validate-binary-search-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -337,4 +341,8 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
