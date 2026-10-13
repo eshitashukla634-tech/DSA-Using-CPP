@@ -193,6 +193,7 @@ DSA-Using-CPP/
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0020-valid-parentheses/) | Easy |
 | [0224-basic-calculator](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0224-basic-calculator/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0856-score-of-parentheses/) | Medium |
@@ -242,6 +243,7 @@ DSA-Using-CPP/
 | [0102-binary-tree-level-order-traversal](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -298,6 +300,7 @@ DSA-Using-CPP/
 | [0124-binary-tree-maximum-path-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0700-search-in-a-binary-search-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
@@ -309,6 +312,7 @@ DSA-Using-CPP/
 | [0124-binary-tree-maximum-path-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -326,6 +330,7 @@ DSA-Using-CPP/
 | [0124-binary-tree-maximum-path-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0700-search-in-a-binary-search-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Quickselect
@@ -345,4 +350,8 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
