@@ -57,6 +57,7 @@ DSA-Using-CPP/
 | [0215-kth-largest-element-in-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0480-sliding-window-median](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0480-sliding-window-median/) | Hard |
 | [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0739-daily-temperatures/) | Medium |
@@ -107,6 +108,7 @@ DSA-Using-CPP/
 | [0215-kth-largest-element-in-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0480-sliding-window-median](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0480-sliding-window-median/) | Hard |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Merge Sort
@@ -185,6 +187,7 @@ DSA-Using-CPP/
 | [0041-first-missing-positive](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0480-sliding-window-median](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0480-sliding-window-median/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -267,6 +270,7 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0480-sliding-window-median](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0480-sliding-window-median/) | Hard |
 | [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -353,6 +357,7 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0480-sliding-window-median](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0480-sliding-window-median/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
