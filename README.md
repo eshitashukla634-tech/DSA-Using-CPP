@@ -64,6 +64,7 @@ DSA-Using-CPP/
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -192,6 +193,7 @@ DSA-Using-CPP/
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0480-sliding-window-median](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0480-sliding-window-median/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,11 +263,13 @@ DSA-Using-CPP/
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0493-reverse-pairs/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
