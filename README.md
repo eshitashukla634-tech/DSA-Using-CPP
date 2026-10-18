@@ -64,6 +64,7 @@ DSA-Using-CPP/
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -410,4 +411,8 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
