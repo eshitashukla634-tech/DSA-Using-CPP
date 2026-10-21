@@ -64,6 +64,7 @@ DSA-Using-CPP/
 | [0733-flood-fill](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0739-daily-temperatures/) | Medium |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
+| [0997-find-the-town-judge](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -208,6 +209,7 @@ DSA-Using-CPP/
 | [0141-linked-list-cycle](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0480-sliding-window-median](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0480-sliding-window-median/) | Hard |
+| [0997-find-the-town-judge](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0997-find-the-town-judge/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -437,5 +439,6 @@ DSA-Using-CPP/
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
