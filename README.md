@@ -287,6 +287,7 @@ DSA-Using-CPP/
 | [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0463-island-perimeter](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Indexed Tree
@@ -374,6 +375,7 @@ DSA-Using-CPP/
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0463-island-perimeter](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -430,6 +432,7 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0200-number-of-islands/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Memoization
@@ -454,6 +457,7 @@ DSA-Using-CPP/
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0207-course-schedule/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0997-find-the-town-judge](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -465,4 +469,12 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0207-course-schedule/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
