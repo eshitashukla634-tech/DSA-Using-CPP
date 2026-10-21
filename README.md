@@ -65,6 +65,7 @@ DSA-Using-CPP/
 | [0733-flood-fill](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0739-daily-temperatures/) | Medium |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
+| [0994-rotting-oranges](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -283,6 +284,7 @@ DSA-Using-CPP/
 | [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0463-island-perimeter](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0994-rotting-oranges/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -316,6 +318,7 @@ DSA-Using-CPP/
 | [0200-number-of-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0994-rotting-oranges/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
