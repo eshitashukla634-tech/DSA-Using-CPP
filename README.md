@@ -54,6 +54,7 @@ DSA-Using-CPP/
 | [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0200-number-of-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -276,6 +277,7 @@ DSA-Using-CPP/
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -311,6 +313,7 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0037-sudoku-solver/) | Hard |
+| [0200-number-of-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0733-flood-fill/) | Easy |
 ## Algorithm X
@@ -357,6 +360,7 @@ DSA-Using-CPP/
 | [0099-recover-binary-search-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0200-number-of-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -417,6 +421,7 @@ DSA-Using-CPP/
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Memoization
