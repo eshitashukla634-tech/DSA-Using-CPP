@@ -202,6 +202,7 @@ DSA-Using-CPP/
 | [0150-evaluate-reverse-polish-notation](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0224-basic-calculator](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0224-basic-calculator/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2409-count-days-spent-together](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Hash Table
@@ -236,6 +237,7 @@ DSA-Using-CPP/
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2409-count-days-spent-together/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
