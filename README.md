@@ -76,6 +76,7 @@ DSA-Using-CPP/
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -296,6 +297,7 @@ DSA-Using-CPP/
 | [0994-rotting-oranges](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +332,7 @@ DSA-Using-CPP/
 | [0733-flood-fill](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1254-number-of-closed-islands/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +388,7 @@ DSA-Using-CPP/
 | [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -445,6 +449,7 @@ DSA-Using-CPP/
 | [1254-number-of-closed-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
