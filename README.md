@@ -81,6 +81,7 @@ DSA-Using-CPP/
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -216,6 +217,7 @@ DSA-Using-CPP/
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2409-count-days-spent-together](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2409-count-days-spent-together/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
