@@ -74,6 +74,7 @@ DSA-Using-CPP/
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -510,6 +511,7 @@ DSA-Using-CPP/
 | [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Memoization
@@ -538,6 +540,7 @@ DSA-Using-CPP/
 | [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0997-find-the-town-judge](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1192-critical-connections-in-a-network](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1192-critical-connections-in-a-network/) | Hard |
+| [1584-min-cost-to-connect-all-points](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -601,4 +604,20 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Prim's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Kruskal's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Borůvka's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 <!---LeetCode Topics End-->
