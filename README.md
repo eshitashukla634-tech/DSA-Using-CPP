@@ -71,6 +71,7 @@ DSA-Using-CPP/
 | [0994-rotting-oranges](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0994-rotting-oranges/) | Medium |
 | [0997-find-the-town-judge](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -161,6 +162,7 @@ DSA-Using-CPP/
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0480-sliding-window-median](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0480-sliding-window-median/) | Hard |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -344,6 +346,7 @@ DSA-Using-CPP/
 | [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Indexed Tree
@@ -384,6 +387,7 @@ DSA-Using-CPP/
 | [0733-flood-fill](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Algorithm X
@@ -540,6 +544,7 @@ DSA-Using-CPP/
 | [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0997-find-the-town-judge](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1192-critical-connections-in-a-network](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1192-critical-connections-in-a-network/) | Hard |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -563,6 +568,7 @@ DSA-Using-CPP/
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -620,4 +626,12 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## 0-1 BFS
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 <!---LeetCode Topics End-->
