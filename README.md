@@ -57,6 +57,7 @@ DSA-Using-CPP/
 | [0200-number-of-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
@@ -138,6 +139,7 @@ DSA-Using-CPP/
 | [0075-sort-colors](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
@@ -154,6 +156,7 @@ DSA-Using-CPP/
 | [0023-merge-k-sorted-lists](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0480-sliding-window-median](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0480-sliding-window-median/) | Hard |
 | [0912-sort-an-array](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0912-sort-an-array/) | Medium |
@@ -272,6 +275,7 @@ DSA-Using-CPP/
 | [0224-basic-calculator](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0224-basic-calculator/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -433,6 +437,7 @@ DSA-Using-CPP/
 | [0226-invert-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0332-reconstruct-itinerary](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0463-island-perimeter](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -529,6 +534,7 @@ DSA-Using-CPP/
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0207-course-schedule/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0997-find-the-town-judge](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0997-find-the-town-judge/) | Easy |
 | [1192-critical-connections-in-a-network](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1192-critical-connections-in-a-network/) | Hard |
@@ -583,4 +589,16 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Eulerian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Semi-Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
