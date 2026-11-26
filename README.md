@@ -436,6 +436,7 @@ DSA-Using-CPP/
 | [0463-island-perimeter](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -530,6 +531,7 @@ DSA-Using-CPP/
 | [0207-course-schedule](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0207-course-schedule/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0997-find-the-town-judge](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0997-find-the-town-judge/) | Easy |
+| [1192-critical-connections-in-a-network](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
@@ -573,4 +575,12 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0127-word-ladder/) | Hard |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
