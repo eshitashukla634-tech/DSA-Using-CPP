@@ -247,6 +247,7 @@ DSA-Using-CPP/
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0037-sudoku-solver](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0041-first-missing-positive/) | Hard |
+| [0127-word-ladder](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -267,6 +268,7 @@ DSA-Using-CPP/
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0020-valid-parentheses/) | Easy |
+| [0127-word-ladder](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0127-word-ladder/) | Hard |
 | [0224-basic-calculator](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0224-basic-calculator/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0301-remove-invalid-parentheses/) | Hard |
@@ -325,6 +327,7 @@ DSA-Using-CPP/
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0127-word-ladder](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0207-course-schedule/) | Medium |
@@ -566,4 +569,8 @@ DSA-Using-CPP/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/eshitashukla634-tech/DSA-Using-CPP/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
